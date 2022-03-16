@@ -33,5 +33,5 @@ For Koshari
 2 cups elbow pasta
 Cooking oil
 Water
-1 15-oz can chickpeas, rinsed, drained and warmed
+1 15-oz can chickpeas, rinsed, drained and warmed.
 
