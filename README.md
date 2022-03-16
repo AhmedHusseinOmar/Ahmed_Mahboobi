@@ -35,3 +35,19 @@ Cooking oil
 Water
 1 15-oz can chickpeas, rinsed, drained and warmed.
 
+
+
+# Ihsan
+
+Hi my name is Ihsanullah Mahboobi I am 1090 Years old.
+
+Dog : Dog is a very loyal animal
+
+## Recipe 
+
+`Biryani`
+- 5 Potatos
+- 2 Meat
+- 1kg Rice 
+
+
